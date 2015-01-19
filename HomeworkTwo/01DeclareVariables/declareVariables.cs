@@ -11,5 +11,6 @@ class declareVariables
         int thirdNumber = 4825932;
         byte fourthNumber = 97;
         short fifthNumber = -10000;
+        long sixthNumber = 1923124721371232212;
     }
 }
