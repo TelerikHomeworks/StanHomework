@@ -1,0 +1,6 @@
+C:\Users\Stiliyan\Dropbox\TelerikHomeworks\TelerikHomeworks\Homework2\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\Users\Stiliyan\Dropbox\TelerikHomeworks\TelerikHomeworks\Homework2\01DeclareVariables\bin\Debug\01DeclareVariables.exe
+C:\Users\Stiliyan\Dropbox\TelerikHomeworks\TelerikHomeworks\Homework2\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
+C:\Users\Stiliyan\Dropbox\TelerikHomeworks\TelerikHomeworks\Homework2\01DeclareVariables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Stiliyan\Dropbox\TelerikHomeworks\TelerikHomeworks\Homework2\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\Users\Stiliyan\Dropbox\TelerikHomeworks\TelerikHomeworks\Homework2\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
