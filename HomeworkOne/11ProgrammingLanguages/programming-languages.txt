@@ -1,0 +1,18 @@
+Here I present 8 of the most popular programming languages for 2014 and comparing them with C# language.
+
+8. (3,3%) PHP - PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. PHP language is interpreters language unlike C# (compiled language). Diff between C# and PHP: PHP is a language itself which supports syntax of C and C++ whereas C# is one of the languages which is  supported by .NET framework which supports more than 60+ languages. 
+
+7. (4,1%) C - C is very low level programming language and works very fast because of that. C is an imperative language like C# and PHP. It does not support object orriented code contrast C#.
+
+6. (5%) C# - C# is intended to be a simple, modern, general-purpose, object-oriented programming language. Its development team is led by Anders Hejlsberg. The most recent version is C# 5.0, which was released on August 15, 2012. It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and ISO. The fastest growing language. 400% outgrowing for last 2 years.
+
+5. (5.2%) JavaScript -  is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. Javascript is a non-typed scripting language, which means it typically runs uncompiled in browsers. C# is a strongly-typed language, which is typically compiled into a .dll. Syntax with C# is similar.
+
+4. (10,6%) Ruby - Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. Some difference between C# and Ruby: Ruby is an interpreted language unlike C#. Ruby supports JVM. C# does not support.
+Ruby has no debuggging mode, C# has.
+
+3. (13%) C++ - C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing the facilities for low-level memory manipulation. C# is a simple, modern, object oriented, and type-safe programming language derived from C and C++. C#  is firmly planted in the C and C++ family tree of languages, and will immediately be familiar to C and C++ programmers. C# aims to combine the high productivity of Visual Basic and the raw power of C++.
+
+2. (22,2%) Java - Java is a functional computer programming language that is concurrent, class-based, object-oriented,[11] and specifically designed to have as few implementation dependencies as possible. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture. Java is, as of 2015, one of the most popular programming languages in use, particularly for client-server web applications, with a reported 9 million developers. Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+1. (30.3%) Python - Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C# or Java. Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. It features a dynamic type system and automatic memory management and has a large and comprehensive standard library. 
