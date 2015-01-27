@@ -1,0 +1,5 @@
+C:\homework\4. Homework Console In and Out\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+C:\homework\4. Homework Console In and Out\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+C:\homework\4. Homework Console In and Out\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+C:\homework\4. Homework Console In and Out\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+C:\homework\4. Homework Console In and Out\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb

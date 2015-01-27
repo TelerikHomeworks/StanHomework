@@ -1,0 +1,5 @@
+C:\homework\4. Homework Console In and Out\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe.config
+C:\homework\4. Homework Console In and Out\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe
+C:\homework\4. Homework Console In and Out\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.pdb
+C:\homework\4. Homework Console In and Out\Problem 8. Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.exe
+C:\homework\4. Homework Console In and Out\Problem 8. Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.pdb

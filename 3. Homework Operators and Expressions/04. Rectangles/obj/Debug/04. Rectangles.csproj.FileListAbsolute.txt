@@ -1,0 +1,5 @@
+C:\homework\Homework Operators and Expressions\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+C:\homework\Homework Operators and Expressions\04. Rectangles\bin\Debug\_04.Rectangles.exe
+C:\homework\Homework Operators and Expressions\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+C:\homework\Homework Operators and Expressions\04. Rectangles\obj\Debug\_04.Rectangles.exe
+C:\homework\Homework Operators and Expressions\04. Rectangles\obj\Debug\_04.Rectangles.pdb

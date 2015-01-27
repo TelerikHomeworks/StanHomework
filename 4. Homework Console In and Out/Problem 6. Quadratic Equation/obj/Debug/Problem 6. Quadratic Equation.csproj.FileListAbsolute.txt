@@ -1,0 +1,5 @@
+C:\homework\4. Homework Console In and Out\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.exe.config
+C:\homework\4. Homework Console In and Out\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.exe
+C:\homework\4. Homework Console In and Out\Problem 6. Quadratic Equation\bin\Debug\Problem_6.Quadratic_Equation.pdb
+C:\homework\4. Homework Console In and Out\Problem 6. Quadratic Equation\obj\Debug\Problem_6.Quadratic_Equation.exe
+C:\homework\4. Homework Console In and Out\Problem 6. Quadratic Equation\obj\Debug\Problem_6.Quadratic_Equation.pdb

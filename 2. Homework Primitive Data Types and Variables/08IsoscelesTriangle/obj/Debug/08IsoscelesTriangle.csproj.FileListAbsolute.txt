@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe.config
+C:\homework\HomeworkTwo\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.exe
+C:\homework\HomeworkTwo\08IsoscelesTriangle\bin\Debug\08IsoscelesTriangle.pdb
+C:\homework\HomeworkTwo\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.exe
+C:\homework\HomeworkTwo\08IsoscelesTriangle\obj\Debug\08IsoscelesTriangle.pdb

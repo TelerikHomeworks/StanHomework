@@ -1,0 +1,6 @@
+C:\homework\4. Homework Console In and Out\Problem 10. Fibonacci Numbers\bin\Debug\Problem_10.Fibonacci_Numbers.exe.config
+C:\homework\4. Homework Console In and Out\Problem 10. Fibonacci Numbers\bin\Debug\Problem_10.Fibonacci_Numbers.exe
+C:\homework\4. Homework Console In and Out\Problem 10. Fibonacci Numbers\bin\Debug\Problem_10.Fibonacci_Numbers.pdb
+C:\homework\4. Homework Console In and Out\Problem 10. Fibonacci Numbers\obj\Debug\Problem 10. Fibonacci Numbers.csprojResolveAssemblyReference.cache
+C:\homework\4. Homework Console In and Out\Problem 10. Fibonacci Numbers\obj\Debug\Problem_10.Fibonacci_Numbers.exe
+C:\homework\4. Homework Console In and Out\Problem 10. Fibonacci Numbers\obj\Debug\Problem_10.Fibonacci_Numbers.pdb

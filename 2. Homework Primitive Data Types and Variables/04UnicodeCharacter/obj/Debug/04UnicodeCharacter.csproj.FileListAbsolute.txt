@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+C:\homework\HomeworkTwo\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+C:\homework\HomeworkTwo\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+C:\homework\HomeworkTwo\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+C:\homework\HomeworkTwo\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb

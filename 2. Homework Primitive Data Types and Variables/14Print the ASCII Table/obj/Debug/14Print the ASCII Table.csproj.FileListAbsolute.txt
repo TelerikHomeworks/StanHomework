@@ -1,0 +1,6 @@
+C:\homework\HomeworkTwo\14Print the ASCII Table\bin\Debug\14Print the ASCII Table.exe.config
+C:\homework\HomeworkTwo\14Print the ASCII Table\bin\Debug\14Print the ASCII Table.exe
+C:\homework\HomeworkTwo\14Print the ASCII Table\bin\Debug\14Print the ASCII Table.pdb
+C:\homework\HomeworkTwo\14Print the ASCII Table\obj\Debug\14Print the ASCII Table.exe
+C:\homework\HomeworkTwo\14Print the ASCII Table\obj\Debug\14Print the ASCII Table.pdb
+C:\homework\HomeworkTwo\14Print the ASCII Table\obj\Debug\14Print the ASCII Table.csprojResolveAssemblyReference.cache

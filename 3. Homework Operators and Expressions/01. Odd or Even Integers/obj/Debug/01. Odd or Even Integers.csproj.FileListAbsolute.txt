@@ -1,0 +1,12 @@
+C:\homework\Homework Operators and Expressions\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+C:\homework\Homework Operators and Expressions\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+C:\homework\Homework Operators and Expressions\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+C:\homework\Homework Operators and Expressions\01. Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache
+C:\homework\Homework Operators and Expressions\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+C:\homework\Homework Operators and Expressions\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb
+C:\homework\3. Homework Operators and Expressions\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+C:\homework\3. Homework Operators and Expressions\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+C:\homework\3. Homework Operators and Expressions\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb
+C:\homework\3. Homework Operators and Expressions\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+C:\homework\3. Homework Operators and Expressions\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+C:\homework\3. Homework Operators and Expressions\01. Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache

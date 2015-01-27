@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\12Null Values Arithmetic\bin\Debug\12Null Values Arithmetic.exe.config
+C:\homework\HomeworkTwo\12Null Values Arithmetic\bin\Debug\12Null Values Arithmetic.exe
+C:\homework\HomeworkTwo\12Null Values Arithmetic\bin\Debug\12Null Values Arithmetic.pdb
+C:\homework\HomeworkTwo\12Null Values Arithmetic\obj\Debug\12Null Values Arithmetic.exe
+C:\homework\HomeworkTwo\12Null Values Arithmetic\obj\Debug\12Null Values Arithmetic.pdb

@@ -1,0 +1,10 @@
+C:\homework\Homework Operators and Expressions\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.exe.config
+C:\homework\Homework Operators and Expressions\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.exe
+C:\homework\Homework Operators and Expressions\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.pdb
+C:\homework\Homework Operators and Expressions\07. Point in a Circle\obj\Debug\_07.Point_in_a_Circle.exe
+C:\homework\Homework Operators and Expressions\07. Point in a Circle\obj\Debug\_07.Point_in_a_Circle.pdb
+C:\homework\3. Homework Operators and Expressions\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.exe.config
+C:\homework\3. Homework Operators and Expressions\07. Point in a Circle\obj\Debug\_07.Point_in_a_Circle.exe
+C:\homework\3. Homework Operators and Expressions\07. Point in a Circle\obj\Debug\_07.Point_in_a_Circle.pdb
+C:\homework\3. Homework Operators and Expressions\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.exe
+C:\homework\3. Homework Operators and Expressions\07. Point in a Circle\bin\Debug\_07.Point_in_a_Circle.pdb

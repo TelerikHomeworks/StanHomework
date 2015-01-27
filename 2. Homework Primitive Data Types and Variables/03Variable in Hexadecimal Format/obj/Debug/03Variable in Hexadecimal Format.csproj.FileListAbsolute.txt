@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\03Variable in Hexadecimal Format\bin\Debug\03Variable in Hexadecimal Format.exe.config
+C:\homework\HomeworkTwo\03Variable in Hexadecimal Format\bin\Debug\03Variable in Hexadecimal Format.exe
+C:\homework\HomeworkTwo\03Variable in Hexadecimal Format\bin\Debug\03Variable in Hexadecimal Format.pdb
+C:\homework\HomeworkTwo\03Variable in Hexadecimal Format\obj\Debug\03Variable in Hexadecimal Format.exe
+C:\homework\HomeworkTwo\03Variable in Hexadecimal Format\obj\Debug\03Variable in Hexadecimal Format.pdb

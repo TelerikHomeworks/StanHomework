@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe.config
+C:\homework\HomeworkTwo\02FloatOrDouble\bin\Debug\02FloatOrDouble.exe
+C:\homework\HomeworkTwo\02FloatOrDouble\bin\Debug\02FloatOrDouble.pdb
+C:\homework\HomeworkTwo\02FloatOrDouble\obj\Debug\02FloatOrDouble.exe
+C:\homework\HomeworkTwo\02FloatOrDouble\obj\Debug\02FloatOrDouble.pdb

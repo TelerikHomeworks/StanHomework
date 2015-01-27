@@ -1,0 +1,5 @@
+C:\homework\4. Homework Console In and Out\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe.config
+C:\homework\4. Homework Console In and Out\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\homework\4. Homework Console In and Out\Problem 7. Sum of 5 Numbers\bin\Debug\Problem_7.Sum_of_5_Numbers.pdb
+C:\homework\4. Homework Console In and Out\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.exe
+C:\homework\4. Homework Console In and Out\Problem 7. Sum of 5 Numbers\obj\Debug\Problem_7.Sum_of_5_Numbers.pdb

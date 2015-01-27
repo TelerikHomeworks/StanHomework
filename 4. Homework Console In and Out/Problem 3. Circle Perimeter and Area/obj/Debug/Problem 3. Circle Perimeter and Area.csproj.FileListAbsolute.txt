@@ -1,0 +1,6 @@
+C:\homework\4. Homework Console In and Out\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe.config
+C:\homework\4. Homework Console In and Out\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\homework\4. Homework Console In and Out\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.pdb
+C:\homework\4. Homework Console In and Out\Problem 3. Circle Perimeter and Area\obj\Debug\Problem 3. Circle Perimeter and Area.csprojResolveAssemblyReference.cache
+C:\homework\4. Homework Console In and Out\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+C:\homework\4. Homework Console In and Out\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.pdb

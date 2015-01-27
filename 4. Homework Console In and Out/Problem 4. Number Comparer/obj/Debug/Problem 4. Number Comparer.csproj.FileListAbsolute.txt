@@ -1,0 +1,6 @@
+C:\homework\4. Homework Console In and Out\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe.config
+C:\homework\4. Homework Console In and Out\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.exe
+C:\homework\4. Homework Console In and Out\Problem 4. Number Comparer\bin\Debug\Problem_4.Number_Comparer.pdb
+C:\homework\4. Homework Console In and Out\Problem 4. Number Comparer\obj\Debug\Problem 4. Number Comparer.csprojResolveAssemblyReference.cache
+C:\homework\4. Homework Console In and Out\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.exe
+C:\homework\4. Homework Console In and Out\Problem 4. Number Comparer\obj\Debug\Problem_4.Number_Comparer.pdb

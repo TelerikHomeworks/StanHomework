@@ -1,0 +1,10 @@
+C:\homework\Homework Operators and Expressions\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe.config
+C:\homework\Homework Operators and Expressions\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe
+C:\homework\Homework Operators and Expressions\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.pdb
+C:\homework\Homework Operators and Expressions\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.exe
+C:\homework\Homework Operators and Expressions\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.pdb
+C:\homework\3. Homework Operators and Expressions\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe.config
+C:\homework\3. Homework Operators and Expressions\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.exe
+C:\homework\3. Homework Operators and Expressions\05. Third Digit is 7\obj\Debug\_05.Third_Digit_is_7.pdb
+C:\homework\3. Homework Operators and Expressions\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.exe
+C:\homework\3. Homework Operators and Expressions\05. Third Digit is 7\bin\Debug\_05.Third_Digit_is_7.pdb

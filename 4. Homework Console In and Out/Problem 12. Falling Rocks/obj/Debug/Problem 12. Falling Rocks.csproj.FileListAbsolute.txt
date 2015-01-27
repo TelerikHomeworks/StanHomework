@@ -1,0 +1,6 @@
+C:\homework\4. Homework Console In and Out\Problem 12. Falling Rocks\bin\Debug\Problem_12.Falling_Rocks.exe.config
+C:\homework\4. Homework Console In and Out\Problem 12. Falling Rocks\obj\Debug\Problem 12. Falling Rocks.csprojResolveAssemblyReference.cache
+C:\homework\4. Homework Console In and Out\Problem 12. Falling Rocks\bin\Debug\Problem_12.Falling_Rocks.exe
+C:\homework\4. Homework Console In and Out\Problem 12. Falling Rocks\bin\Debug\Problem_12.Falling_Rocks.pdb
+C:\homework\4. Homework Console In and Out\Problem 12. Falling Rocks\obj\Debug\Problem_12.Falling_Rocks.exe
+C:\homework\4. Homework Console In and Out\Problem 12. Falling Rocks\obj\Debug\Problem_12.Falling_Rocks.pdb

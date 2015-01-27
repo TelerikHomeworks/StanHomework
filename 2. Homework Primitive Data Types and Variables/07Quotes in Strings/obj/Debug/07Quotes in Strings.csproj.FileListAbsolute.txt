@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\07Quotes in Strings\bin\Debug\07Quotes in Strings.exe.config
+C:\homework\HomeworkTwo\07Quotes in Strings\bin\Debug\07Quotes in Strings.exe
+C:\homework\HomeworkTwo\07Quotes in Strings\bin\Debug\07Quotes in Strings.pdb
+C:\homework\HomeworkTwo\07Quotes in Strings\obj\Debug\07Quotes in Strings.exe
+C:\homework\HomeworkTwo\07Quotes in Strings\obj\Debug\07Quotes in Strings.pdb

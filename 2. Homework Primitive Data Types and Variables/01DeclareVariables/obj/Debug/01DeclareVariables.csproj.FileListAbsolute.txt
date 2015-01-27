@@ -1,0 +1,12 @@
+C:\homework\HomeworkTwo\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\homework\HomeworkTwo\01DeclareVariables\bin\Debug\01DeclareVariables.exe
+C:\homework\HomeworkTwo\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
+C:\homework\HomeworkTwo\01DeclareVariables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache
+C:\homework\HomeworkTwo\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\homework\HomeworkTwo\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
+C:\homework\Homework Primitive Data Types and Variables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\homework\Homework Primitive Data Types and Variables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\homework\Homework Primitive Data Types and Variables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
+C:\homework\2. Homework Primitive Data Types and Variables\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\homework\2. Homework Primitive Data Types and Variables\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\homework\2. Homework Primitive Data Types and Variables\01DeclareVariables\obj\Debug\01DeclareVariables.pdb

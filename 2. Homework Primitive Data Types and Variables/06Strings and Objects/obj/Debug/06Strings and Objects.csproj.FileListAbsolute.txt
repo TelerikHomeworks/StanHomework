@@ -1,0 +1,5 @@
+C:\homework\HomeworkTwo\06Strings and Objects\bin\Debug\06Strings and Objects.exe.config
+C:\homework\HomeworkTwo\06Strings and Objects\bin\Debug\06Strings and Objects.exe
+C:\homework\HomeworkTwo\06Strings and Objects\bin\Debug\06Strings and Objects.pdb
+C:\homework\HomeworkTwo\06Strings and Objects\obj\Debug\06Strings and Objects.exe
+C:\homework\HomeworkTwo\06Strings and Objects\obj\Debug\06Strings and Objects.pdb

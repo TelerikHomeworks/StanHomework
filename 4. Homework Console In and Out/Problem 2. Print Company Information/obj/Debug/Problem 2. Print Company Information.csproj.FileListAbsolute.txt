@@ -1,0 +1,6 @@
+C:\homework\4. Homework Console In and Out\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe.config
+C:\homework\4. Homework Console In and Out\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe
+C:\homework\4. Homework Console In and Out\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.pdb
+C:\homework\4. Homework Console In and Out\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.exe
+C:\homework\4. Homework Console In and Out\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.pdb
+C:\homework\4. Homework Console In and Out\Problem 2. Print Company Information\obj\Debug\Problem 2. Print Company Information.csprojResolveAssemblyReference.cache

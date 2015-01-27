@@ -1,0 +1,5 @@
+C:\homework\Homework Operators and Expressions\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.exe.config
+C:\homework\Homework Operators and Expressions\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.exe
+C:\homework\Homework Operators and Expressions\03. Divide by 7 and 5\bin\Debug\_03.Divide_by_7_and_5.pdb
+C:\homework\Homework Operators and Expressions\03. Divide by 7 and 5\obj\Debug\_03.Divide_by_7_and_5.exe
+C:\homework\Homework Operators and Expressions\03. Divide by 7 and 5\obj\Debug\_03.Divide_by_7_and_5.pdb

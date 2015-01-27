@@ -1,0 +1,6 @@
+C:\Users\Stiliyan\Dropbox\HomeworkOne\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe.config
+C:\Users\Stiliyan\Dropbox\HomeworkOne\16PrintLongSequence\bin\Debug\16PrintLongSequence.exe
+C:\Users\Stiliyan\Dropbox\HomeworkOne\16PrintLongSequence\bin\Debug\16PrintLongSequence.pdb
+C:\Users\Stiliyan\Dropbox\HomeworkOne\16PrintLongSequence\obj\Debug\16PrintLongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Stiliyan\Dropbox\HomeworkOne\16PrintLongSequence\obj\Debug\16PrintLongSequence.exe
+C:\Users\Stiliyan\Dropbox\HomeworkOne\16PrintLongSequence\obj\Debug\16PrintLongSequence.pdb

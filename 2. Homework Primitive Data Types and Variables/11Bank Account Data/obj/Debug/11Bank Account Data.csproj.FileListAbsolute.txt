@@ -1,0 +1,6 @@
+C:\homework\HomeworkTwo\11Bank Account Data\bin\Debug\11Bank Account Data.exe.config
+C:\homework\HomeworkTwo\11Bank Account Data\bin\Debug\11Bank Account Data.exe
+C:\homework\HomeworkTwo\11Bank Account Data\bin\Debug\11Bank Account Data.pdb
+C:\homework\HomeworkTwo\11Bank Account Data\obj\Debug\11Bank Account Data.csprojResolveAssemblyReference.cache
+C:\homework\HomeworkTwo\11Bank Account Data\obj\Debug\11Bank Account Data.exe
+C:\homework\HomeworkTwo\11Bank Account Data\obj\Debug\11Bank Account Data.pdb
