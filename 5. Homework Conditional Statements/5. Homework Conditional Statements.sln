@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Sort 3 Numbers w
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Digit as Word", "Problem 8. Digit as Word\Problem 8. Digit as Word.csproj", "{CE308BDB-01C1-4DE1-9D64-B82C3914B264}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. Play with Int, Double and String", "Problem 9. Play with Int, Double and String\Problem 9. Play with Int, Double and String.csproj", "{A6C62DCF-ADF7-434C-843C-733F75BC2B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 10. Beer Time", "Problem 10. Beer Time\Problem 10. Beer Time.csproj", "{729D8C52-AB78-40B0-82D2-A3ECD0A11EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 11. Number as Words", "Problem 11. Number as Words\Problem 11. Number as Words.csproj", "{95419CA7-5BAA-4F25-9ED3-E5A22EF4C022}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +63,18 @@ Global
 		{CE308BDB-01C1-4DE1-9D64-B82C3914B264}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE308BDB-01C1-4DE1-9D64-B82C3914B264}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE308BDB-01C1-4DE1-9D64-B82C3914B264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C62DCF-ADF7-434C-843C-733F75BC2B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C62DCF-ADF7-434C-843C-733F75BC2B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C62DCF-ADF7-434C-843C-733F75BC2B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C62DCF-ADF7-434C-843C-733F75BC2B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729D8C52-AB78-40B0-82D2-A3ECD0A11EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729D8C52-AB78-40B0-82D2-A3ECD0A11EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729D8C52-AB78-40B0-82D2-A3ECD0A11EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729D8C52-AB78-40B0-82D2-A3ECD0A11EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95419CA7-5BAA-4F25-9ED3-E5A22EF4C022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95419CA7-5BAA-4F25-9ED3-E5A22EF4C022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95419CA7-5BAA-4F25-9ED3-E5A22EF4C022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95419CA7-5BAA-4F25-9ED3-E5A22EF4C022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
