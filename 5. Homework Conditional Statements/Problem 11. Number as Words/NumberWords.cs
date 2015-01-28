@@ -120,7 +120,7 @@ class NumberWords
                     digit += TwoDigitNumbers((number % 100) / 10) + "" + OneDigitNumbers(number % 10);
                 }
             }
-            Console.WriteLine("Number as word: " + UppercaseFirst(digit));
+            Console.WriteLine("Number as words: " + UppercaseFirst(digit));
         }
         Console.WriteLine("");
     }
