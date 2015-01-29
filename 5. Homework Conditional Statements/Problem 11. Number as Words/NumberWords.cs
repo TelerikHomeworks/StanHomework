@@ -92,6 +92,11 @@ class NumberWords
             {
                 Console.WriteLine("Number as word: " + UppercaseFirst(TwoDigitNumbers(number)));
             }
+            else if(number %10 == 0)
+            {
+                string digit = TwoDigitNumbers(number / 10);
+                Console.WriteLine("Number as word: " + UppercaseFirst(digit));
+            }
             else
             {
                 string digit = TwoDigitNumbers(number / 10) + "-" + OneDigitNumbers(number % 10);
