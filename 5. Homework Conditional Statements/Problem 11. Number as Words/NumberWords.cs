@@ -1,5 +1,5 @@
 ﻿using System;
-
+/*Write a program that converts a number in the range [0…999] to words, corresponding to the English pronunciation.*/
 class NumberWords
 {
     static string UppercaseFirst(string s)
